@@ -1,0 +1,9 @@
+C:\tmpWebApp\ConsoleApplication1\ConsoleApplication1\bin\Debug\CryptogramSolver.Console.exe.config
+C:\tmpWebApp\CryptogramSolver\CryptogramSolver.Console\bin\Debug\CryptogramSolver.Console.exe.config
+C:\tmpWebApp\CryptogramSolver\CryptogramSolver.Console\bin\Debug\CryptogramSolver.Console.exe
+C:\tmpWebApp\CryptogramSolver\CryptogramSolver.Console\bin\Debug\CryptogramSolver.Console.pdb
+C:\tmpWebApp\CryptogramSolver\CryptogramSolver.Console\bin\Debug\NetSpell.SpellChecker.dll
+C:\tmpWebApp\CryptogramSolver\CryptogramSolver.Console\bin\Debug\NetSpell.SpellChecker.xml
+C:\tmpWebApp\CryptogramSolver\CryptogramSolver.Console\obj\Debug\CryptogramSolver.Console.csprojResolveAssemblyReference.cache
+C:\tmpWebApp\CryptogramSolver\CryptogramSolver.Console\obj\Debug\CryptogramSolver.Console.exe
+C:\tmpWebApp\CryptogramSolver\CryptogramSolver.Console\obj\Debug\CryptogramSolver.Console.pdb

@@ -1,0 +1,8 @@
+C:\tmpWebApp\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\tmpWebApp\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\tmpWebApp\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\tmpWebApp\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\tmpWebApp\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\tmpWebApp\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\tmpWebApp\ConsoleApplication1\ConsoleApplication1\bin\Debug\NetSpell.SpellChecker.dll
+C:\tmpWebApp\ConsoleApplication1\ConsoleApplication1\bin\Debug\NetSpell.SpellChecker.xml
